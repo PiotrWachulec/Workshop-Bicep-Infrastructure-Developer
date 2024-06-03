@@ -7,7 +7,7 @@
     - Bicep
     - Azure Resource Manager (ARM) Tools
     - Powershell
-- Azure CLI version 2.53.0 or newer
+- Azure Powershell 9.7.1 or higher
 - Bicep CLI version 0.22.6 or higher
 - Powershell Core 7.2 or higher
 
